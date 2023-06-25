@@ -1,0 +1,13 @@
+compr.py
+gen.py
+iter.py
+iter_1.py
+iterators.py
+main.py
+range.py
+test.py
+threads.py
+YAGPT_iter.py
+/.idea/
+/venv/
+/.git/
